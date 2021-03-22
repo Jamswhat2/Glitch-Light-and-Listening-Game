@@ -12,7 +12,7 @@ const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
 
 //Global variables initialized:
-var pattern = [2,2,4,3,2,1,2,4,6,5,7,6]; //temp
+var pattern = [2,2,4,3,2,2,4,6,5,7,6]; //temp, 11 sequences.
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;

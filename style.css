@@ -48,18 +48,18 @@ button {
 
 #button4 {background: lightyellow;}
 #button4:active, #button4.lit{
-  background: yellow
+  background: yellow;
 }
 #button5 {background: lightsalmon;}
 #button5:active, #button5.lit{
-  background: DarkOrange
+  background: DarkOrange;
 }
 #button6 {background: lightpink;}
 #button6:active, #button6.lit{
-  background: DeepPink
+  background: DeepPink;
 }
 #button7 {background: Orchid;}
 #button7:active, #button7.lit{
-  background: DarkViolet
+  background: DarkViolet;
 }
 
