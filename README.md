@@ -39,8 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="" width=250><br>
-
+**Sample Round1(WIN)**   **Sample Round2(FAIL)**    **Fail Round3**
+<p float="left">
+    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round1.gif" width=250><br>
+    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round2.gif" width=250><br>
+    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round3LOSS.gif" width=250><br>
+</p>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
