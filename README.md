@@ -41,9 +41,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 **Sample Round1(WIN)**   **Sample Round2(FAIL)**    **Fail Round3**
 <p float="left">
-    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round1.gif" height=300 width=250><br>
-    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round2.gif" height=300 width=250><br>
-    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round3LOSS.gif" height=300 width=250><br>
+    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round1.gif" height=450 width=400><br>
+    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round2.gif" height=450 width=400><br>
+    <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round3LOSS.gif" height=450 width=400><br>
 </p>
 
 ## Reflection Questions
