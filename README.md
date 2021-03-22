@@ -37,14 +37,18 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
-**Sample Round1(WIN)**
+# **Sample Round1(WIN)**
+
 <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round1.gif" height=450 width=400><br>
-**Sample Round2(FAIL)**
+
+#**Sample Round2(FAIL)**
+
 <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round2.gif" height=450 width=400><br>
-**Fail Round3**
- <img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round3LOSS.gif" height=450 width=400><br>
+
+#**Fail Round3**
+
+<img src="Glitch-LIghtGame-Recordings-/Glitch-Light-and-Sound-game-round3LOSS.gif" height=450 width=400><br>
 
 
 ## Reflection Questions
